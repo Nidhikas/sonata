@@ -22,4 +22,4 @@ pipeline {
 		    steps {
 			sh 'docker run -it -d --name=con-pipeline nidhikashyap18/image-jenkinspipeline /bin/bash'
 			}}	
-
+}}
